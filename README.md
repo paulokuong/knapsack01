@@ -46,4 +46,4 @@ jira_tickets_next_sprint = k.pick_items()
 Contributors
 ------------
 
-* Paulo Kuong ([@pkuong](github.com/pkuong))
+* Paulo Kuong ([@pkuong](https://github.com/paulokuong))
