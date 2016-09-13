@@ -1,3 +1,4 @@
+![alt tag](https://travis-ci.org/paulokuong/knapsack01.svg?branch=master)
 knapsack01
 ======
 
