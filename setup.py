@@ -5,6 +5,7 @@ from setuptools import setup
 setup(name='knapsack01',
       version='0.1',
       description='Solving 0/1 Knapsack Problem',
+      long_description=open('README.rst').read(),
       classifiers=[
           'Development Status :: 3 - Alpha',
           'License :: OSI Approved :: MIT License',
