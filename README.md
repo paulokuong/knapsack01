@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/paulokuong/knapsack01.svg?branch=master)](https://travis-ci.org/paulokuong/knapsack01)
+[![Build Status](https://travis-ci.org/paulokuong/knapsack01.svg?branch=master)](https://travis-ci.org/paulokuong/knapsack01)[![Coverage Status](https://coveralls.io/repos/github/paulokuong/knapsack01/badge.svg?branch=master)](https://coveralls.io/github/paulokuong/knapsack01?branch=master)
 knapsack01
 ======
 
